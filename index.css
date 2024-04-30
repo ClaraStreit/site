@@ -1,0 +1,20 @@
+body{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(file:///C:/Users/clara/OneDrive/Documentos/vs_code/site%201/img/1.jpg);
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:center;
+    align-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.titulo {
+    font-family: Impact, fantasy;
+    font-size: 32px;
+    font-weight: 400;
+    color: rgb(250, 245, 255);
+}
