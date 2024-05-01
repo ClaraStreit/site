@@ -1,7 +1,7 @@
 body{
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(https://i.ibb.co/0Ctcty1/battle-2.jpg);
+    background-image: url(https://i.ibb.co/QHNk39D/alyx.jpg);
 }
 .info {
     display: flex;
@@ -10,7 +10,7 @@ body{
     gap: 20px;
 }
 .titulo {
-    color: rgb(189, 193, 212);
+    color: rgb(45, 70, 46);
     font-family: impact, fantasy;
     font-size: 40px
 }
